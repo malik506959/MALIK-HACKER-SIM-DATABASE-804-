@@ -326,7 +326,7 @@
 
     <div class="container">
 
-        <div class="header">MALIK HACKER</div>
+        <div class="header">YOUR WEBSITE NAME</div>
 
         <div class="card">
 
@@ -390,7 +390,7 @@
 
              <ul class="contact-list">
 
-                <li><i class="fa fa-phone"></i><a href="tel:+28890516519" -envelope"></i><a href="mkmalikkhan852@gmail.com"></a></li>
+                <li><i class="fa fa-phone"></i><a href="tel:+923277712441" -envelope"></i><a href="YOUR EMILE"></a></li>
 
              </ul>
 
@@ -530,7 +530,7 @@
 
     <script>
 
-      var wa_btnSetting = {"btnColor":"#25D366","ctaText":"","cornerRadius":40,"marginBottom":20,"marginLeft":20,"marginRight":20,"btnPosition":"right","whatsAppNumber":"+28890516519","welcomeMessage":"How can I help you?","zIndex":999999,"btnColorScheme":"light"};
+      var wa_btnSetting = {"btnColor":"#25D366","ctaText":"","cornerRadius":40,"marginBottom":20,"marginLeft":20,"marginRight":20,"btnPosition":"right","whatsAppNumber":"+923277712441","welcomeMessage":"How can I help you?","zIndex":999999,"btnColorScheme":"light"};
 
       window.onload = () => {
 
